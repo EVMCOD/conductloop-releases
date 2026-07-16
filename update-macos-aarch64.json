@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "pub_date": "2026-07-16T12:40:00Z",
+  "pub_date": "2026-07-16T13:10:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "PLACEHOLDER_UNSIGNED_AUTOUPDATE_DISABLED",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTTkhwYWNVZzFUV1prZVd4aVlXTm5ia0pWTWpkTU0ybG1WSEV4ZDBoM1lYaGhOV0ppT1M5R1ZrNXRkR0Z6U1VwQ2VHMTNhM1JKUzNsNWFIWjBjbGxMYkdKMU1GbGFWVlJHY25JeVdHZHJXazAwU1VOak5WSTROV3RtZW5oTFVuYzRQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnME1qQXdNRGczQ1dacGJHVTZRMjl1WkhWamRFeHZiM0F1WVhCd0xuUmhjaTVuZWdwalFYUnRkREUyTlhOS1NFeFJXREF3Y2xaUGFVOTNTVGRQZW1WWVdrVlhka1ZwYlVGVllrbHJWWGRIUzJsRFVEaFNMMlpXT0dSVlRYbFZTbkpRYTI5RWQzcFNZWFV2UjFaek1XZHdNemRPV2pOaWJXTkNkejA5Q2c9PQ==",
       "url": "https://github.com/EVMCOD/conductloop-releases/releases/download/v1.1.0/ConductLoop.app.tar.gz"
     }
   }

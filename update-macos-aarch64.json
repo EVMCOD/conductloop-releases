@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "pub_date": "2026-07-16T12:40:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "PLACEHOLDER_UNSIGNED_AUTOUPDATE_DISABLED",
+      "url": "https://github.com/EVMCOD/conductloop-releases/releases/download/v1.1.0/ConductLoop.app.tar.gz"
+    }
+  }
+}
